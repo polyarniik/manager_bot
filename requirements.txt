@@ -1,0 +1,5 @@
+aiogram~=2.15
+python-dotenv~=0.17.1
+gino~=1.0.1
+gspread~=4.0.1
+aioredis~=2.0.0
